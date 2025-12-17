@@ -1,32 +1,42 @@
-# EvoWars:AlienAssualt - NintendoDS Homebrew Commercial Showcase 
-Commercial Nintendo DS homebrew action shooter featuring era-based progression and real-time combat.
+# EvoWars:AlienAssualt 
+## Nintendo DS Homebrew Commercial Showcase 
+> Commercial Nintendo DS homebrew action shooter
+> featuring era-based progression and real-time combat.
+
+![Gameplay Preview](media/gameplay.gif)
 
 This project focuses on
 AI behavior modeling, system design, and data-driven decision-making
 under strict hardware constraints.
 
-⸻
+---
+## 🎯 Project Purpose
 
-Project Purpose
+This repository exists as a **supporting portfolio project** demonstrating applied AI and system-level thinking through a **real, constrained production environment**.
 
-This repository exists as a supporting portfolio project demonstrating applied AI and system-level thinking through a real, constrained production environment.
+The project explores how:
+- Intelligent enemy behavior
+- Difficulty balancing
+- Real-time decision systems  
 
-The project explores how intelligent behavior, difficulty balancing, and real-time decision systems can be designed without relying on heavy machine learning frameworks, which closely reflects many production AI scenarios.
+can be designed with a Behaviour tree.
 
-⸻
 
-Project Overview
-	•	Platform: Nintendo DS (Homebrew)
-	•	Genre: Cover-based shooter inspired by NIKKE-style mechanics
-	•	Core Theme: Alien combat with tactical positioning
-	•	Status: Commercial release planned (homebrew market)
+---
 
-Due to commercial considerations, the source code is private.
-This repository instead documents design decisions, trade-offs, and analytical reasoning.
+## 🕹️ Project Overview
 
-⸻
+- **Platform:** Nintendo DS (Homebrew)
+- **Genre:** Cover-based shooter inspired by *NIKKE-style mechanics*
+- **Core Theme:** Alien combat with tactical positioning
+- **Status:** Commercial release planned (homebrew market)
 
-AI & Decision System Design
+Due to commercial considerations, the **source code is private**.  
+This repository instead documents **design decisions, trade-offs, and analytical reasoning**.
+
+---
+
+## 🤖 AI & Decision System Design
 
 Enemy Behavior Modeling
 	•	Finite State Machines (FSM) combined with weighted scoring
@@ -73,11 +83,11 @@ Included analyses:
 	•	Enemy spawn density vs. failure probability
 	•	Difficulty curve stabilization
 
-These analyses demonstrate how data science techniques can guide system tuning even in resource-limited environments.
+These analyses demonstrate how data science techniques can guide system tuning even in resource-limited environments
 
-⸻
+---
 
-Performance & Constraint-Aware Engineering
+## Performance & Constraint-Aware Engineering
 
 Key constraints:
 	•	~4MB system memory

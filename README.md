@@ -4,7 +4,7 @@
 
 ## Nintendo DS Homebrew Game Commercial Showcase 
 <p align="center">
-    <img src="./readme/Evowars_title.png" width="750"/>
+    <img src="./readme/Evowars_title.png" width="500"/>
 </p>
 > Commercial Nintendo DS homebrew action shooter
 > featuring era-based progression and real-time combat.

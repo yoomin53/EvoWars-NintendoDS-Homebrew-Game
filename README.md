@@ -2,7 +2,7 @@
 **© 2026 Jung Yoomin. All Rights Reserved.**
 ---
 <p align="center">
-    <img src="./readme/Evowars_title.png" width="300"/>
+    <img src="./readme/Evowars_title.png" width="400"/>
 </p>
 
 ## Nintendo DS Homebrew Game Commercial Showcase 

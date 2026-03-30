@@ -1,11 +1,12 @@
 # EvoWars:AlienAssualt 
 **© 2026 Jung Yoomin. All Rights Reserved.**
 ---
-
-## Nintendo DS Homebrew Game Commercial Showcase 
 <p align="center">
     <img src="./readme/Evowars_title.png" width="500"/>
 </p>
+
+## Nintendo DS Homebrew Game Commercial Showcase 
+
 > Commercial Nintendo DS homebrew action shooter
 > featuring era-based progression and real-time combat.
 

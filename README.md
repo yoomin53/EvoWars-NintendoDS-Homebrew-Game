@@ -1,27 +1,5 @@
 # EvoWars:AlienAssualt 
-## © Copyright Notice
-
 **© 2026 Jung Yoomin. All Rights Reserved.**
-
-This repository and all its contents (including documentation, design documents, data analysis files, images, videos, and gameplay previews) are protected by copyright law.
-
-### Intellectual Property Statement
-
-- The game **EvoWars: Alien Assault** is a commercial Nintendo DS homebrew project.
-- All rights to the game concept, gameplay mechanics, visual assets, audio assets, AI systems, and branding are exclusively owned by **Jung Yoomin**.
-- The full source code is private and not available in this repository due to commercial considerations.
-- This repository serves solely as a **public design and portfolio showcase**, sharing architectural decisions, AI behavior modeling, system design documents, and analytical artifacts.
-
-### Permitted Use
-
-You may view, read, and share the documentation and media files in this repository for **personal, educational, or portfolio review purposes only**, provided that:
-- Proper attribution is given to **Jung Yoomin** and the project **EvoWars: Alien Assault**.
-- No commercial use, modification, redistribution, or derivative works are made without explicit written permission.
-
-### Restrictions
-
-Any unauthorized reproduction, distribution, modification, or commercial exploitation of the content in this repository is strictly prohibited and may result in legal action.
-
 ---
 
 ## Nintendo DS Homebrew Commercial Showcase 
@@ -150,16 +128,36 @@ Repository Structure
 
 
 ⸻
+## © Copyright Notice
 
-Commercial & IP Notice
+**© 2026 Jung Yoomin. All Rights Reserved.**
 
-This project is intended for commercial distribution within the homebrew ecosystem.
+This repository and all its contents—including source code, documentation, design documents, data analysis files, images, videos, and gameplay previews—are protected by copyright law.
 
-To protect intellectual property:
-	•	Source code is not publicly available
-	•	Design documentation and analytical artifacts are shared instead
+### Intellectual Property Statement
 
-⸻
+- The game **EvoWars: Alien Assault** is a commercial Nintendo DS homebrew project.
+- All rights to the game concept, source code, gameplay mechanics, visual assets, audio assets, AI systems, design documents, and branding are exclusively owned by **Jung Yoomin**.
+- The full source code is publicly visible in this repository **for portfolio and demonstration purposes only**.
+- This repository serves as a **public showcase** of the project's architecture, AI behavior modeling, system design, and technical implementation.
+
+### Permitted Use
+
+You may view, read, fork, and share the contents of this repository (including source code) for **personal, educational, or portfolio review purposes only**, provided that:
+- Proper attribution is given to **Jung Yoomin** and the project **EvoWars: Alien Assault**.
+- No commercial use, modification, redistribution, or creation of derivative works is made without explicit written permission from the copyright holder.
+
+### Restrictions
+
+The following actions are strictly prohibited without prior written consent:
+- Using any part of the source code in other projects (commercial or non-commercial)
+- Modifying, distributing, sublicensing, or publicly hosting modified versions of the code
+- Incorporating the code, assets, or design into any product or derivative work
+- Commercial exploitation of the codebase, documentation, or assets
+
+Any unauthorized use may result in legal action.
+
+---
 
 Summary
 

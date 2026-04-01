@@ -13,7 +13,7 @@
 
 ![Gameplay Preview](readme/Lina3D.gif)
 <p align="center">
-    <img src="./readme/Lina3D.gif" width="100"/>
+    <img src="./readme/Lina3D.gif" width="200"/>
 </p>
 
 This project focuses on

@@ -12,9 +12,6 @@
 > featuring era-based progression and real-time combat.
 
 ![Gameplay Preview](readme/gameplay.gif)
-<p align="center">
-    <img src="./readme/Lina3D.gif" width="300"/>
-</p>
 
 This project focuses on
 AI behavior modeling, system design, and data-driven decision-making
@@ -42,8 +39,13 @@ can be designed with a Behaviour tree.
 - **Core Theme:** Alien combat with tactical positioning
 - **Status:** Commercial release planned (homebrew market)
 
-Due to commercial considerations, the **source code is private**.  
-This repository instead documents **design decisions, trade-offs, and analytical reasoning**.
+### character Profile
+<p align="center">
+    <img src="./readme/Lina3D.gif" width="300"/>
+</p>
+
+The source code is public, however, due to commercial considerations, the source code is a closed source.  
+This repository documents **design decisions, trade-offs, and analytical reasoning**.
 
 ---
 

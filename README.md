@@ -41,9 +41,9 @@ can be designed with a Behaviour tree.
 
 ### character Profile
 <p align="center">
-	<img src="./readme/Aiden_Profile.png" width="350"/>
-    <img src="./readme/Lina3D.gif" width="290"/>
-	<img src="./readme/Leia_Profile.png" width="340"/>
+	<img src="./readme/Aiden_Profile.png" width="330"/>
+    <img src="./readme/Lina3D.gif" width="270"/>
+	<img src="./readme/Leia_Profile.png" width="320"/>
 </p>
 
 The source code is public, however, due to commercial considerations, the source code is a closed source.  

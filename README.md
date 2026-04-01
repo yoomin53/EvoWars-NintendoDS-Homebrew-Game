@@ -46,6 +46,12 @@ can be designed with a Behaviour tree.
 	<img src="./readme/Leia_Profile.png" width="320"/>
 </p>
 
+<p align="center">
+	<img src="./readme/Aiden_Profile.png" width="30%"/>
+    <img src="./readme/Lina3D.gif" width="30%"/>
+	<img src="./readme/Leia_Profile.png" width="30%"/>
+</p>
+
 The source code is public, however, due to commercial considerations, the source code is a closed source.  
 This repository documents **design decisions, trade-offs, and analytical reasoning**.
 

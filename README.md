@@ -41,14 +41,8 @@ can be designed with a Behaviour tree.
 
 ### character Profile
 <p align="center">
-	<img src="./readme/Aiden_Profile.png" width="330"/>
-    <img src="./readme/Lina3D.gif" width="270"/>
-	<img src="./readme/Leia_Profile.png" width="320"/>
-</p>
-
-<p align="center">
-	<img src="./readme/Aiden_Profile.png" width="30%"/>
-    <img src="./readme/Lina3D.gif" width="30%"/>
+	<img src="./readme/Aiden_Profile.png" width="33%"/>
+    <img src="./readme/Lina3D.gif" width="25%"/>
 	<img src="./readme/Leia_Profile.png" width="30%"/>
 </p>
 

@@ -1,0 +1,9 @@
+*.nds
+*.sav
+build
+
+# 비공개 소스
+secret_src/
+
+# 빌드 스크립트도 안 올림
+build_secret.sh

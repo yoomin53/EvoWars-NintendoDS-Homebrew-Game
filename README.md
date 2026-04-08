@@ -180,5 +180,6 @@ This project demonstrates:
 
 It serves as a supporting example of applied AI engineering, complementing larger or more ML-focused portfolio projects.
 
-<iframe frameborder="0" src="https://itch.io/embed/4458398?border_width=2&amp;bg_color=ebf2ff&amp;link_color=2122ff" width="554" height="169"><a href="https://yoomin53.itch.io/evowarsalienassualt">EvoWars:AlienAssualt by yoomin53</a></iframe>
+[![EvoWars: Alien Assault on itch.io](https://img.shields.io/badge/itch.io-EvoWars%3A%20Alien%20Assault-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://yoomin53.itch.io/evowarsalienassualt)
+
 

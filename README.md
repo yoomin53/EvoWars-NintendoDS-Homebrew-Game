@@ -1,5 +1,7 @@
 # EvoWars:AlienAssualt 
 **© 2026 Jung Yoomin. All Rights Reserved.**
+[![EvoWars: Alien Assault on itch.io](https://img.shields.io/badge/itch.io-EvoWars%3A%20Alien%20Assault-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://yoomin53.itch.io/evowarsalienassualt)
+
 ---
 <p align="center">
     <img src="./readme/Evowars_title.png" width="400"/>

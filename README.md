@@ -15,9 +15,9 @@
 > featuring era-based progression and real-time combat.
 
 <p align="center">
-	<img src="./readme/gameplay1.gif" width="30%"/>
-    <img src="./readme/gameplay2.gif" width="30%"/>
-	<img src="./readme/gameplay3.gif" width="30%"/>
+	<img src="./readme/gamePlay1.gif" width="30%"/>
+    <img src="./readme/gamePlay2.gif" width="30%"/>
+	<img src="./readme/gamePlay3.gif" width="30%"/>
 </p>
 
 ![Gameplay Preview](readme/gameplay.gif)

@@ -14,6 +14,12 @@
 > Commercial Nintendo DS homebrew action shooter
 > featuring era-based progression and real-time combat.
 
+<p align="center">
+	<img src="./readme/gameplay1.gif" width="30%"/>
+    <img src="./readme/gameplay2.gif" width="30%"/>
+	<img src="./readme/gameplay3.gif" width="30%"/>
+</p>
+
 ![Gameplay Preview](readme/gameplay.gif)
 
 This project focuses on
